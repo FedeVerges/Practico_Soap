@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ejercicio7_Practico4.iml" filepath="$PROJECT_DIR$/Ejercicio7_Practico4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio7/generated/ValidadorTarjetaCredito/ValidadorTarjetaCredito.iml" filepath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio7/generated/ValidadorTarjetaCredito/ValidadorTarjetaCredito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio7/generated/generated.iml" filepath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio7/generated/generated.iml" />
     </modules>
   </component>
 </project>
