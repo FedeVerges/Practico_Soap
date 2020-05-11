@@ -1,0 +1,15 @@
+<div class="content">
+    #foreach($camara in $camaras)
+    <div class="col-md-6">
+        <label for="camara">Camara </label>
+        <img src=$camara>
+    </div>
+   #end
+    #if($error)
+        <div class="alert alert-danger" role="alert">
+            <h4 class="alert-heading">Se ha producido un error</h4>
+            <p>$error</p>
+        </div>
+    #end
+</div>
+</div>
