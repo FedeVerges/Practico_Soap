@@ -19,10 +19,6 @@ public class ClientController {
         // Instranciar camaras.
         CamaraVigilancia servicio = new CamaraVigilanciaService().getCamaraVigilanciaPort();
         camaras.add(servicio.obtenerStreaming().getImageURL());
-        camaras.add(servicio.obtenerStreaming().getImageURL());
-        camaras.add(servicio.obtenerStreaming().getImageURL());
-        camaras.add(servicio.obtenerStreaming().getImageURL());
-
         error= "";
         HashMap<String, Object> model = new HashMap<>();
         model.put("template", "velocity/view/home.vtl");

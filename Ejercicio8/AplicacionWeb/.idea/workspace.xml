@@ -2,62 +2,109 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51d9d83d-b794-4a2c-a430-8ef7ae7c647d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/controllers/ClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/generated/camara/CamaraVigilancia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/generated/camara/CamaraVigilanciaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/generated/camara/ObjectFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/generated/camara/ObtenerStreaming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/generated/camara/ObtenerStreamingResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/generated/camara/Streaming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/generated/camara/camaraVigilancia.wsdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/generated/camara/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/template/velocity/VelocityTemplateEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/velocity/view/home.vtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/velocity/main.vtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/velocity/view/home.vtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/CamaraVigilancia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/database/ConnectionDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/generated/Emergencias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/generated/EmergenciasService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/generated/NotificarEmergencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/generated/NotificarEmergenciaResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/generated/ObjectFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/generated/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/generated/servicioEmergencia.wsdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/models/Streaming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/services/EmergenciasDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/src/main/java/com/unsl/servicio/emergencia/Emergencias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/src/main/java/com/unsl/servicio/emergencia/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.factorypath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.project" beforeDir="false" afterPath="$PROJECT_DIR$/../.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio8.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/com/unsl/practico/soa/ejercicio8/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/com/unsl/practico/soa/ejercicio8/controllers/DefaultController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/com/unsl/practico/soa/ejercicio8/template/velocity/VelocityTemplateEngine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/resources/velocity/main.vtl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/resources/velocity/view/home.vtl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/resources/velocity/view/registrar.vtl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/com/unsl/practico/soa/ejercicio8/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/com/unsl/practico/soa/ejercicio8/controllers/DefaultController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/com/unsl/practico/soa/ejercicio8/template/velocity/VelocityTemplateEngine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/velocity/main.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/velocity/main.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/velocity/view/home.vtl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/velocity/view/registrar.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/velocity/view/registrar.vtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__com_sun_xml_messaging_saaj_saaj_impl_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__com_sun_xml_stream_buffer_streambuffer_1_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__com_sun_xml_ws_jaxws_rt_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__com_sun_xml_ws_policy_2_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__jakarta_jws_jakarta_jws_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__jakarta_xml_soap_jakarta_xml_soap_api_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__jakarta_xml_ws_jakarta_xml_ws_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__org_glassfish_external_management_api_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__org_glassfish_gmbal_gmbal_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__org_glassfish_ha_ha_api_3_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__org_glassfish_pfl_pfl_asm_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__org_glassfish_pfl_pfl_basic_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__org_glassfish_pfl_pfl_basic_tools_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__org_glassfish_pfl_pfl_dynamic_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__org_glassfish_pfl_pfl_tf_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__org_glassfish_pfl_pfl_tf_tools_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__org_jvnet_mimepull_mimepull_1_9_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/CamaraVigilancia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/target/CamaraVigilancia-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/target/CamaraVigilancia-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/target/classes/com/unsl/camara/vigilancia/CamaraVigilancia$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/target/classes/com/unsl/camara/vigilancia/CamaraVigilancia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/target/classes/com/unsl/camara/vigilancia/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/target/classes/com/unsl/camara/vigilancia/database/ConnectionDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/target/classes/com/unsl/camara/vigilancia/generated/Emergencias.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/target/classes/com/unsl/camara/vigilancia/generated/EmergenciasService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/target/classes/com/unsl/camara/vigilancia/generated/NotificarEmergencia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/target/classes/com/unsl/camara/vigilancia/generated/NotificarEmergenciaResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/target/classes/com/unsl/camara/vigilancia/generated/ObjectFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/target/classes/com/unsl/camara/vigilancia/generated/package-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/target/classes/com/unsl/camara/vigilancia/models/Streaming.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/target/classes/com/unsl/camara/vigilancia/services/EmergenciasDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__com_sun_xml_messaging_saaj_saaj_impl_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__com_sun_xml_stream_buffer_streambuffer_1_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__com_sun_xml_ws_jaxws_rt_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__com_sun_xml_ws_policy_2_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__jakarta_jws_jakarta_jws_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__jakarta_xml_soap_jakarta_xml_soap_api_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__jakarta_xml_ws_jakarta_xml_ws_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__org_glassfish_external_management_api_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__org_glassfish_gmbal_gmbal_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__org_glassfish_ha_ha_api_3_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__org_glassfish_pfl_pfl_asm_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__org_glassfish_pfl_pfl_basic_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__org_glassfish_pfl_pfl_basic_tools_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__org_glassfish_pfl_pfl_dynamic_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__org_glassfish_pfl_pfl_tf_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__org_glassfish_pfl_pfl_tf_tools_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__org_jvnet_mimepull_mimepull_1_9_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/ServicioEmergenciaSOA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/target/ServicioEmergenciaSOA-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/target/ServicioEmergenciaSOA-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/target/classes/com/unsl/servicio/emergencia/Emergencias.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/target/classes/com/unsl/servicio/emergencia/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/velocity/main.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/velocity/main.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/velocity/view/home.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/velocity/view/home.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/velocity/main.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/velocity/main.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/velocity/view/home.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/velocity/view/home.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CamaraVigilancia/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CamaraVigilancia/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServicioEmergenciaSOA/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,8 +133,16 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CamaraVigilancia" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -119,8 +174,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589155656165</updated>
-      <workItem from="1589155660733" duration="251000" />
+      <workItem from="1589155660733" duration="1025000" />
+      <workItem from="1589156798516" duration="1737000" />
     </task>
+    <task id="LOCAL-00001" summary="Add web service files and modify velocity template">
+      <created>1589156030125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589156030125</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,27 +192,33 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Add web service files and modify velocity template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add web service files and modify velocity template" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1368" y="0" width="1350" height="764" key="CommitChangelistDialog2" timestamp="1589156029816">
       <screen x="1368" y="0" width="1360" height="768" />
     </state>
     <state x="1368" y="0" width="1350" height="764" key="CommitChangelistDialog2/0.34.1368.734/1368.0.1360.768@1368.0.1360.768" timestamp="1589156029816" />
-    <state width="1312" height="161" key="GridCell.Tab.0.bottom" timestamp="1589155783860">
+    <state x="1831" y="142" width="424" height="480" key="FileChooserDialogImpl" timestamp="1589156854001">
       <screen x="1368" y="0" width="1360" height="768" />
     </state>
-    <state width="1312" height="161" key="GridCell.Tab.0.bottom/0.34.1368.734/1368.0.1360.768@1368.0.1360.768" timestamp="1589155783860" />
-    <state width="1312" height="161" key="GridCell.Tab.0.center" timestamp="1589155783859">
+    <state x="1831" y="142" width="424" height="480" key="FileChooserDialogImpl/0.34.1368.734/1368.0.1360.768@1368.0.1360.768" timestamp="1589156854001" />
+    <state width="1312" height="324" key="GridCell.Tab.0.bottom" timestamp="1589201724159">
       <screen x="1368" y="0" width="1360" height="768" />
     </state>
-    <state width="1312" height="161" key="GridCell.Tab.0.center/0.34.1368.734/1368.0.1360.768@1368.0.1360.768" timestamp="1589155783859" />
-    <state width="1312" height="161" key="GridCell.Tab.0.left" timestamp="1589155783859">
+    <state width="1312" height="324" key="GridCell.Tab.0.bottom/0.34.1368.734/1368.0.1360.768@1368.0.1360.768" timestamp="1589201724159" />
+    <state width="1312" height="324" key="GridCell.Tab.0.center" timestamp="1589201724158">
       <screen x="1368" y="0" width="1360" height="768" />
     </state>
-    <state width="1312" height="161" key="GridCell.Tab.0.left/0.34.1368.734/1368.0.1360.768@1368.0.1360.768" timestamp="1589155783859" />
-    <state width="1312" height="161" key="GridCell.Tab.0.right" timestamp="1589155783860">
+    <state width="1312" height="324" key="GridCell.Tab.0.center/0.34.1368.734/1368.0.1360.768@1368.0.1360.768" timestamp="1589201724158" />
+    <state width="1312" height="324" key="GridCell.Tab.0.left" timestamp="1589201724158">
       <screen x="1368" y="0" width="1360" height="768" />
     </state>
-    <state width="1312" height="161" key="GridCell.Tab.0.right/0.34.1368.734/1368.0.1360.768@1368.0.1360.768" timestamp="1589155783860" />
+    <state width="1312" height="324" key="GridCell.Tab.0.left/0.34.1368.734/1368.0.1360.768@1368.0.1360.768" timestamp="1589201724158" />
+    <state width="1312" height="324" key="GridCell.Tab.0.right" timestamp="1589201724158">
+      <screen x="1368" y="0" width="1360" height="768" />
+    </state>
+    <state width="1312" height="324" key="GridCell.Tab.0.right/0.34.1368.734/1368.0.1360.768@1368.0.1360.768" timestamp="1589201724158" />
   </component>
 </project>
