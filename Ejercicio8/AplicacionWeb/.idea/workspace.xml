@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51d9d83d-b794-4a2c-a430-8ef7ae7c647d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/controllers/ClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/generated/camara/CamaraVigilancia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/generated/camara/CamaraVigilanciaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/generated/camara/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/generated/camara/ObtenerStreaming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/generated/camara/ObtenerStreamingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/generated/camara/Streaming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/generated/camara/camaraVigilancia.wsdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/generated/camara/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unsl/practico/soa/ejercicio8/template/velocity/VelocityTemplateEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/velocity/view/home.vtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/velocity/main.vtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/velocity/view/home.vtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/CamaraVigilancia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/database/ConnectionDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/generated/Emergencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/generated/EmergenciasService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/generated/NotificarEmergencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/generated/NotificarEmergenciaResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/generated/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/generated/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/generated/servicioEmergencia.wsdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/models/Streaming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CamaraVigilancia/src/main/java/com/unsl/camara/vigilancia/services/EmergenciasDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/src/main/java/com/unsl/servicio/emergencia/Emergencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServicioEmergenciaSOA/src/main/java/com/unsl/servicio/emergencia/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.factorypath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.project" beforeDir="false" afterPath="$PROJECT_DIR$/../.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/unsl/practico/soa/ejercicio8/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/unsl/practico/soa/ejercicio8/controllers/DefaultController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/unsl/practico/soa/ejercicio8/template/velocity/VelocityTemplateEngine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/velocity/main.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/velocity/view/home.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/velocity/view/registrar.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/unsl/practico/soa/ejercicio8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/unsl/practico/soa/ejercicio8/controllers/DefaultController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/unsl/practico/soa/ejercicio8/template/velocity/VelocityTemplateEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/velocity/main.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/velocity/main.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/velocity/view/home.vtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/velocity/view/registrar.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/velocity/view/registrar.vtl" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bjq4BwHZrKlWU2u3GiOrIS1Y9k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unsl.practico.soa.ejercicio8.Main" />
+      <module name="AplicacionWeb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unsl.practico.soa.ejercicio8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51d9d83d-b794-4a2c-a430-8ef7ae7c647d" name="Default Changelist" comment="" />
+      <created>1589155656165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589155656165</updated>
+      <workItem from="1589155660733" duration="251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1368" y="0" width="1350" height="764" key="CommitChangelistDialog2" timestamp="1589156029816">
+      <screen x="1368" y="0" width="1360" height="768" />
+    </state>
+    <state x="1368" y="0" width="1350" height="764" key="CommitChangelistDialog2/0.34.1368.734/1368.0.1360.768@1368.0.1360.768" timestamp="1589156029816" />
+    <state width="1312" height="161" key="GridCell.Tab.0.bottom" timestamp="1589155783860">
+      <screen x="1368" y="0" width="1360" height="768" />
+    </state>
+    <state width="1312" height="161" key="GridCell.Tab.0.bottom/0.34.1368.734/1368.0.1360.768@1368.0.1360.768" timestamp="1589155783860" />
+    <state width="1312" height="161" key="GridCell.Tab.0.center" timestamp="1589155783859">
+      <screen x="1368" y="0" width="1360" height="768" />
+    </state>
+    <state width="1312" height="161" key="GridCell.Tab.0.center/0.34.1368.734/1368.0.1360.768@1368.0.1360.768" timestamp="1589155783859" />
+    <state width="1312" height="161" key="GridCell.Tab.0.left" timestamp="1589155783859">
+      <screen x="1368" y="0" width="1360" height="768" />
+    </state>
+    <state width="1312" height="161" key="GridCell.Tab.0.left/0.34.1368.734/1368.0.1360.768@1368.0.1360.768" timestamp="1589155783859" />
+    <state width="1312" height="161" key="GridCell.Tab.0.right" timestamp="1589155783860">
+      <screen x="1368" y="0" width="1360" height="768" />
+    </state>
+    <state width="1312" height="161" key="GridCell.Tab.0.right/0.34.1368.734/1368.0.1360.768@1368.0.1360.768" timestamp="1589155783860" />
+  </component>
+</project>
